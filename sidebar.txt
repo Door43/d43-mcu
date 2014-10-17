@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcu:home|Door43 (mcu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcu|d43-mcu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcu/archive/master.zip|d43-mcu.zip]]
+
+**Recent Changes**
+{{changes>ns = mcu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcu|Ethnologue data]]
+
